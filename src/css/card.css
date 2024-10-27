@@ -1,0 +1,7 @@
+.demo-card {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 16px;
+    border-radius: 6px;
+}

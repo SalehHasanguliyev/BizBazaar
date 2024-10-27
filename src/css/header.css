@@ -1,0 +1,30 @@
+.logo {
+    height: 70px;
+}
+
+.logo-text {
+    font-size: 18px;
+    font-weight: bold;
+    color: #4c4c4c;
+}
+
+.search-input {
+    outline: none;
+    border: none;
+    border-bottom: 1px solid lightgray;
+    padding: 5px 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 20px;
+    font-size: 16px;
+}
+
+.search-input::placeholder {
+    font-size: 16px;
+}
+
+.icons {
+    font-size: 22px;
+    margin-right: 7px;
+    cursor: pointer;
+}
